@@ -25,6 +25,7 @@ module.exports = {
      layout: "portrait",
      mac_res: "1024x768",
      win_res: "1366X768",
+     //tunnel: true, //Comment out to not use tunnel
      smart_scroll: true
 };
 
