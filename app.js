@@ -129,6 +129,7 @@ async function startTest() {
                 win_res: configFile.win_res,
                 smart_scroll: configFile.smart_scroll,
                 url: urls[i],
+                //tunnel: configFile.tunnel, //Comment out to not use tunnel,
                 configs: osBrowserConfig
             }
 
